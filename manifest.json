@@ -3,20 +3,20 @@
   "header": {
 		"description": "§2Addons Tuto §6§n By Obscube§r§l§7",
 		"name": "§a§n(R)Tuto §2Addon",
-      "uuid": "fe0222ab-b7e1-4760-a0d8-41a181373c04",
+      "uuid": "c7342dd4-d25a-4aee-830b-e79b8474fa02",
       "version": [ 1, 0, 0 ],
       "min_engine_version": [ 1, 19, 20 ]
   },
   "modules": [
       {
           "type": "resources",
-          "uuid": "09cf176c-f8a0-43e1-91ed-c30c81258394",
+          "uuid": "5ad98607-30b7-4a43-b38b-3af7505f2aa1",
           "version": [ 1, 0, 0 ]
       }
   ],
   "dependencies": [
     {
-      "uuid": "9c4da89c-4f07-444f-b3b7-f0d4582dfaf3",
+      "uuid": "922e9c46-86ac-4a30-a2fc-f613effb6a2d",
       "version": [ 1, 0, 0 ]
     }
   ]
