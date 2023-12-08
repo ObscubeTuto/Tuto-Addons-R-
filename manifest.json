@@ -5,7 +5,7 @@
 		"name": "§a§n(R)Tuto §2Addon",
       "uuid": "fe0222ab-b7e1-4760-a0d8-41a181373c04",
       "version": [ 1, 0, 0 ],
-      "min_engine_version": [ 1, 19, 20 ]
+      "min_engine_version": [ 1, 20, 20 ]
   },
   "modules": [
       {
