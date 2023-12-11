@@ -2,7 +2,7 @@
 	"texture_data": {
 		"epee": {
 			"textures": "textures/items/epee.png"
-		},
+		}, 
 		"pomme_cuivre": {
 			"textures": "textures/items/pomme_cuivre.png"
 		}
