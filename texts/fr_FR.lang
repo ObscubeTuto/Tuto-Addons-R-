@@ -1,3 +1,4 @@
-﻿item.obscube_tuto:epee=Épée en Vanadium
-item.obscube_tuto:pomme_cuivre=Pomme en cuivre
-tile.obscube:vanadium.name=Vanadium
+﻿item.obscube:epee_vanandium=Épée en Vanadium
+item.obscube:pomme_vanandium=Pomme en vanandium
+tile.obscube:vanadium_lingot.name=Vanadium
+item.obscube:vanadium_lingot=Vanadium
