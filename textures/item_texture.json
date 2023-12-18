@@ -3,11 +3,11 @@
 		"vanadium_lingot": {
 			"textures": "textures/items/vanadium_lingot.png"
 		},
-		"epee_vanandium": {
-			"textures": "textures/items/epee_vanandium.png"
+		"epee_vanadium": {
+			"textures": "textures/items/epee_vanadium.png"
 		},
-		"pomme_vanandium": {
-			"textures": "textures/items/pomme_vanandium.png"
+		"pomme_vanadium": {
+			"textures": "textures/items/pomme_vanadium.png"
 		}
 	}
 }
