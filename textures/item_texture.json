@@ -1,13 +1,10 @@
 {
 	"texture_data": {
-		"vanadium_lingot": {
-			"textures": "textures/items/vanadium_lingot.png"
-		},
-		"epee_vanandium": {
-			"textures": "textures/items/epee_vanandium.png"
-		},
-		"pomme_vanandium": {
-			"textures": "textures/items/pomme_vanandium.png"
+		"epee": {
+			"textures": "textures/items/epee.png"
+		}, 
+		"pomme_cuivre": {
+			"textures": "textures/items/pomme_cuivre.png"
 		}
 	}
 }
