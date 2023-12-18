@@ -1,8 +1,11 @@
 {
 	"texture_data": {
+		"vanadium": {
+			"textures": "textures/items/vanadium.png"
+		},
 		"epee": {
 			"textures": "textures/items/epee.png"
-		}, 
+		},
 		"pomme_cuivre": {
 			"textures": "textures/items/pomme_cuivre.png"
 		}
