@@ -1,10 +1,10 @@
 {
 	"texture_data": {
-		"epee": {
-			"textures": "textures/items/epee.png"
-		}, 
-		"pomme_cuivre": {
-			"textures": "textures/items/pomme_cuivre.png"
+		"epee_vanadium": {
+			"textures": "textures/items/epee_vanadium.png"
+		},
+		"pomme_vanadium": {
+			"textures": "textures/items/pomme_vanadium.png"
 		}
 	}
 }
